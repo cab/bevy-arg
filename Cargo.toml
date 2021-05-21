@@ -1,0 +1,9 @@
+[package]
+name = "bevy-arg"
+version = "0.1.0"
+authors = ["cab"]
+edition = "2018"
+
+
+[dependencies]
+bevy = "0.5"
